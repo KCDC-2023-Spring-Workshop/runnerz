@@ -1,7 +1,7 @@
-package org.codemash.runnerz.repository;
+package info.kcdc.runnerz.repository;
 
-import org.codemash.runnerz.model.Location;
-import org.codemash.runnerz.model.Run;
+import info.kcdc.runnerz.model.Location;
+import info.kcdc.runnerz.model.Run;
 import org.springframework.data.jdbc.repository.query.Query;
 import org.springframework.data.repository.ListCrudRepository;
 import org.springframework.data.repository.query.Param;

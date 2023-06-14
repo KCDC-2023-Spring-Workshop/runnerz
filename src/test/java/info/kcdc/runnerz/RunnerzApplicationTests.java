@@ -1,4 +1,4 @@
-package org.codemash.runnerz;
+package info.kcdc.runnerz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

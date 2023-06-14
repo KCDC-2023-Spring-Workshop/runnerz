@@ -1,4 +1,4 @@
-package org.codemash.runnerz.model;
+package info.kcdc.runnerz.model;
 
 import org.junit.jupiter.api.Test;
 

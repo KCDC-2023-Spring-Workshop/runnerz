@@ -1,9 +1,9 @@
-package org.codemash.runnerz.controller;
+package info.kcdc.runnerz.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import org.codemash.runnerz.model.Location;
-import org.codemash.runnerz.model.Run;
-import org.codemash.runnerz.repository.RunRepository;
+import info.kcdc.runnerz.repository.RunRepository;
+import info.kcdc.runnerz.model.Location;
+import info.kcdc.runnerz.model.Run;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.ArgumentMatchers;

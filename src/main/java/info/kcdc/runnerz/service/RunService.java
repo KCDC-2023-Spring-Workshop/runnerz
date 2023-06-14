@@ -1,7 +1,7 @@
-package org.codemash.runnerz.service;
+package info.kcdc.runnerz.service;
 
-import org.codemash.runnerz.model.Location;
-import org.codemash.runnerz.model.Run;
+import info.kcdc.runnerz.model.Location;
+import info.kcdc.runnerz.model.Run;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDateTime;

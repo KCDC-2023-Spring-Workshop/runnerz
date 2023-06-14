@@ -1,4 +1,4 @@
-package org.codemash.runnerz;
+package info.kcdc.runnerz;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

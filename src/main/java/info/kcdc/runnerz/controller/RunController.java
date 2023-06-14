@@ -1,9 +1,9 @@
-package org.codemash.runnerz.controller;
+package info.kcdc.runnerz.controller;
 
+import info.kcdc.runnerz.model.Location;
+import info.kcdc.runnerz.repository.RunRepository;
 import jakarta.validation.Valid;
-import org.codemash.runnerz.model.Location;
-import org.codemash.runnerz.model.Run;
-import org.codemash.runnerz.repository.RunRepository;
+import info.kcdc.runnerz.model.Run;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
